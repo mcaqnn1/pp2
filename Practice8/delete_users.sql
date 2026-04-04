@@ -1,0 +1,1 @@
+delete from users where id between 7 and 21;

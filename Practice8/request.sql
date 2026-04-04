@@ -1,0 +1,1 @@
+select first_name,phone_number from users;

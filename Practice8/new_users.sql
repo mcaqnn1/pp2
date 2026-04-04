@@ -1,0 +1,16 @@
+INSERT INTO users (id,first_name, last_name, phone_number, email, date_of_birth) VALUES
+(7,'Emma', 'Brown', '+77081234567', 'emma.brown@gmail.com', '2001-04-15'),
+(8,'Olivia', 'Davis', '+77082345678', 'olivia.davis@gmail.com', '2002-07-20'),
+(9,'Liam', 'Wilson', '+77083456789', 'liam.wilson@gmail.com', '2000-11-02'),
+(10,'Noah', 'Martinez', '+77084567890', 'noah.martinez@gmail.com', '2003-03-10'),
+(11,'Sophia', 'Taylor', '+77085678901', 'sophia.taylor@gmail.com', '2001-09-12'),
+(12,'Mason', 'Anderson', '+77086789012', 'mason.anderson@gmail.com', '2002-05-05'),
+(13,'Ella', 'Thomas', '+77087890123', 'ella.thomas@gmail.com', '2001-12-01'),
+(14,'James', 'Moore', '+77088901234', 'james.moore@gmail.com', '2000-02-15'),
+(15,'Ava', 'Jackson', '+77089012345', 'ava.jackson@gmail.com', '2003-08-08'),
+(16,'Benjamin', 'White', '+77090123456', 'ben.white@gmail.com', '2002-09-09'),
+(17,'Isabella', 'Harris', '+77091234567', 'isabella.harris@gmail.com', '2001-10-10'),
+(18,'Ethan', 'Martin', '+77092345678', 'ethan.martin@gmail.com', '2000-11-11'),
+(19,'Mia', 'Thompson', '+77093456789', 'mia.thompson@gmail.com', '2002-12-12'),
+(20,'Alexander', 'Garcia', '+77094567890', 'alex.garcia@gmail.com', '2003-01-13'),
+(21,'Charlotte', 'Martinez', '+77095678901', 'charlotte.martinez@gmail.com', '2001-02-14');
