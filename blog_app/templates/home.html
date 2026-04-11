@@ -1,0 +1,14 @@
+<h1>Blog</h1>
+
+<form method='POST' action='/create/'>
+  {% csrf_token %}
+  <input name='title' placeholder='title'>
+  <textarea name='text'></textarea>
+  <button>Post</button>
+</form>
+
+<hr>
+
+{% for post in posts %}
+  <h2><a href='/post/{{post.id}}/'>{{post.title}}</a></h2>
+{% endfor %}
