@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "Alice",
+        "last_name": "Smith",
+        "phone_number": "+77001112233",
+        "email": "alicesmith@gmail.com",
+        "date_of_birth": "2003-05-12"
+    },
+    {
+        "id": 2,
+        "first_name": "Lucas",
+        "last_name": "Mason",
+        "phone_number": "+77772568925",
+        "email": "lucamasn@gmail.com",
+        "date_of_birth": "2004-12-08"
+    },
+    {
+        "id": 3,
+        "first_name": "John",
+        "last_name": "Noah",
+        "phone_number": "+77074231153",
+        "email": "john11sm@gmail.com",
+        "date_of_birth": "2000-06-25"
+    },
+    {
+        "id": 4,
+        "first_name": "Aiden",
+        "last_name": "Tyler",
+        "phone_number": "+77051144554",
+        "email": "aidentyler@icloud.com",
+        "date_of_birth": "2006-08-17"
+    },
+    {
+        "id": 5,
+        "first_name": "Elijah",
+        "last_name": "Jackson",
+        "phone_number": "+77085698974",
+        "email": "el_jackson@gmail.com",
+        "date_of_birth": "2002-01-03"
+    }
+]
